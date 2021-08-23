@@ -1,3 +1,3 @@
-# juego de blackjack 21
+# blackjack 21
 
-este es un jueguito hecho en javascript :)
+this game was created with JavaScript
